@@ -1,0 +1,9 @@
+document.getElementById("bl1").style.backgroundColor = "aqua";
+document.getElementById("bl1").style.padding = "20px";
+document.getElementById("bl2").style.backgroundColor = "darkgreen";
+document.getElementById("bl2").style.marginTop = "10px";
+document.getElementById("bl1").style.paddingLeft = "20px";
+document.getElementById("bl3").style.marginTop = "25px";
+document.getElementById("bl3").style.textAlign = "right"
+document.getElementById("bl4").style.backgroundColor = "red";
+document.getElementById("bl4").style.textAlign = "left"
